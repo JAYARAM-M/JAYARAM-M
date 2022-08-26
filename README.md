@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JAYARAM-M
 - 👀 I’m interested in DSA,DBMS,SQL
 - 🌱 I’m currently learning BigQuery
-- 💞️ I’m looking to collaborate with Elon Musk
+- 💞️ I’m looking to Upskilling Myself
 - 📫 reach me through twitter
 
 <!---
