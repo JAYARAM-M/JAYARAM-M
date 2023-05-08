@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JAYARAM-M
-- 👀 I’m interested in DSA,DBMS,SQL
+- 👀 Backend Developer [NodeJS, MongoDB, JSON, Typescript]
 - 🌱 I’m currently learning BigQuery
 - 💞️ I’m looking to Upskill Myself
 - 📫 reach me through twitter
